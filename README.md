@@ -1,5 +1,3 @@
-# LanguageTranslator_TelegramBot
-
 # English to Multi-language Telegram Bot 🌍
 
 Translate English text into five distinct languages using the power of the Microsoft Translate API, all through a Telegram bot interface.
