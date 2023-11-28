@@ -33,7 +33,3 @@ The digital age has brought the world closer than ever. However, language still 
 ## 🤝 Contribute
 
 Contributions to improve or expand the bot are always welcome. Feel free to open a pull request or raise an issue.
-
-## 📜 License
-
-This project is licensed under the MIT License. For more details, see the `LICENSE` file in the repository.
